@@ -34,6 +34,8 @@ Certifique-se de que tem o Python instalado. No seu terminal, instale as bibliot
 ```bash
 pip install pandas dash dash-bootstrap-components plotly xlrd openpyxl
 
+cd Projeto-Final-BD-Grupo-5
+
 python dashboard_visao_geral.py
 
 python dashboard_exploracao.py
